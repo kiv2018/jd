@@ -1,37 +1,18 @@
-## Welcome to GitHub Pages
-
-You can use the [editor on GitHub](https://github.com/kiv2018/jd/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
-
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
-
-### Markdown
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/kiv2018/jd/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+白号抢券模板
+https://s.m.jd.com/activemcenter/mfreecoupon/getcoupon?key=代码&roleId=数字
+复制代码
+半黑号抢券模板
+https://api.m.jd.com/client.action?functionId=newBabelAwardCollection&body={"activityId":"3otnUZEkGA4YVeLpTxAfef3gVJn9","from":"H5node","scene":"1","args":"key=代码,roleId=数字"}&client=wh5&clientVersion=1.0.0&callback=jsonp
+复制代码
+详细代码替换模板
+https://api.m.jd.com/client.action?functionId=newBabelAwardCollection&body=代码&client=wh5&clientVersion=1.0.0&sid=09571f8cb5e6b57f5a5fa2a1f7d1f3a1&uuid=15335180037722047506909&area=&_=1533529888064&callback=jsonp3
+复制代码
+手机端领券模板
+http://coupon.m.jd.com/coupons/show.action?key=代码&roleId=数字
+复制代码
+电脑端领券模板
+https://coupon.jd.com/ilink/couponActiveFront/front_index.action?key=代码&roleId=数字
+复制代码
+京东金融模板
+https://ms.jr.jd.com/gw/generic/hyqy/h5/m/drawCouponCenter?reqData={"id":"数字","couponListType":"4","clientType":"web","clientVersion":"0.0.0"}
+复制代码
